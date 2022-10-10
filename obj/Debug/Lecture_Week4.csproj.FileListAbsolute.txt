@@ -1,0 +1,8 @@
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\obj\Debug\Lecture_Week4.csproj.AssemblyReference.cache
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\obj\Debug\Lecture_Week4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\obj\Debug\Lecture_Week4.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\bin\Debug\Lecture_Week4.exe.config
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\bin\Debug\Lecture_Week4.exe
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\bin\Debug\Lecture_Week4.pdb
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\obj\Debug\Lecture_Week4.exe
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Lecture_Week4\Lecture_Week4\Lecture_Week4\obj\Debug\Lecture_Week4.pdb
